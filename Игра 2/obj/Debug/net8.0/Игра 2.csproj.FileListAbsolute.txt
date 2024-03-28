@@ -1,0 +1,14 @@
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.AssemblyInfoInputs.cache
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.AssemblyInfo.cs
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.csproj.CoreCompileInputs.cache
+F:\For VS\Игра 2\Игра 2\bin\Debug\net8.0\Игра 2.exe
+F:\For VS\Игра 2\Игра 2\bin\Debug\net8.0\Игра 2.deps.json
+F:\For VS\Игра 2\Игра 2\bin\Debug\net8.0\Игра 2.runtimeconfig.json
+F:\For VS\Игра 2\Игра 2\bin\Debug\net8.0\Игра 2.dll
+F:\For VS\Игра 2\Игра 2\bin\Debug\net8.0\Игра 2.pdb
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.dll
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\refint\Игра 2.dll
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.pdb
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\Игра 2.genruntimeconfig.cache
+F:\For VS\Игра 2\Игра 2\obj\Debug\net8.0\ref\Игра 2.dll
